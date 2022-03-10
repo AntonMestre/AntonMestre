@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antonin Maystre</h1>
 <h3 align="center">A engineering apprentice at IMT Atlantique, France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antonmestre" alt="antonmestre" /></a> </p>
-
 - 🌱 I’m currently learning **Quarkus**
 
 <h3 align="left">Connect with me:</h3>
